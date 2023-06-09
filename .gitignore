@@ -15,6 +15,7 @@
 /plugins
 /platforms
 
+/README.md
 # Electron
 /dist-electron
 /dist-packages
